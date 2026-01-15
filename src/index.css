@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #f8fafc;
+    /* bg-slate-50 */
+    color: #0f172a;
+    /* text-slate-900 */
+    -webkit-font-smoothing: antialiased;
+    /* antialiased */
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #e2e8f0;
+  /* bg-slate-200 */
+  border-radius: 9999px;
+  /* rounded-full */
+  transition: background-color 0.2s;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #cbd5e1;
+  /* hover:bg-slate-300 */
+}
+
+/* Print Mode Overrides */
+.is-printing {
+  /* Ensure background is white for capture */
+  background-color: white !important;
+}
+
+/* Force expansion of common scrollable containers when printing */
+.is-printing * {
+  /* Disable custom scrollbars in print to catch overflow issues if any, 
+     but mainly we want to expand. */
+}
+
+/* Specifically target known scrollable areas to expand them */
+.is-printing .overflow-auto,
+.is-printing .overflow-y-auto,
+.is-printing .overflow-x-auto,
+.is-printing .overflow-hidden {
+  overflow: visible !important;
+  height: auto !important;
+  max-height: none !important;
+}
+
+/* Example: Fix sticky headers interfering with capture if needed, 
+   but usually sticky is fine unless it overlaps. 
+   If sticky headers cause issues, un-stick them: */
+/*
+.is-printing .sticky {
+    position: static !important;
+}
+*/
+
+/* Specific fix for Tables in Print Mode */
+.is-printing table {
+  width: 100% !important;
+  table-layout: auto !important;
+}
+
+/* Fix for Recharts or Maps if they rely on fixed height container */
+/* We might need to ensure they have explicit dimensions or aspect ratios */
+.is-printing .recharts-responsive-container {
+  /* Sometimes needed to force render? Usually fine if parent is sized. */
+}

@@ -1,0 +1,3116 @@
+{
+  "1101": {
+    "name": "Iquique",
+    "population": 231962,
+    "pop_male": 116534,
+    "pop_female": 115428,
+    "pop_youth": 49409,
+    "pop_adult": 111710,
+    "pop_senior": 26401
+  },
+  "1107": {
+    "name": "Alto Hospicio",
+    "population": 143294,
+    "pop_male": 72047,
+    "pop_female": 71247,
+    "pop_youth": 35502,
+    "pop_adult": 62060,
+    "pop_senior": 7700
+  },
+  "1401": {
+    "name": "Pozo Almonte",
+    "population": 18713,
+    "pop_male": 9740,
+    "pop_female": 8973,
+    "pop_youth": 4482,
+    "pop_adult": 7956,
+    "pop_senior": 1854
+  },
+  "1402": {
+    "name": "Camiña",
+    "population": 1374,
+    "pop_male": 703,
+    "pop_female": 671,
+    "pop_youth": 247,
+    "pop_adult": 584,
+    "pop_senior": 271
+  },
+  "1403": {
+    "name": "Colchane",
+    "population": 1558,
+    "pop_male": 815,
+    "pop_female": 743,
+    "pop_youth": 295,
+    "pop_adult": 700,
+    "pop_senior": 312
+  },
+  "1404": {
+    "name": "Huara",
+    "population": 3095,
+    "pop_male": 1610,
+    "pop_female": 1485,
+    "pop_youth": 517,
+    "pop_adult": 1348,
+    "pop_senior": 572
+  },
+  "1405": {
+    "name": "Pica",
+    "population": 6291,
+    "pop_male": 3179,
+    "pop_female": 3112,
+    "pop_youth": 1142,
+    "pop_adult": 2727,
+    "pop_senior": 1076
+  },
+  "2101": {
+    "name": "Antofagasta",
+    "population": 444276,
+    "pop_male": 222812,
+    "pop_female": 221464,
+    "pop_youth": 105166,
+    "pop_adult": 212242,
+    "pop_senior": 40586
+  },
+  "2102": {
+    "name": "Mejillones",
+    "population": 15877,
+    "pop_male": 8235,
+    "pop_female": 7642,
+    "pop_youth": 3732,
+    "pop_adult": 7819,
+    "pop_senior": 1162
+  },
+  "2103": {
+    "name": "Sierra Gorda",
+    "population": 1800,
+    "pop_male": 948,
+    "pop_female": 852,
+    "pop_youth": 366,
+    "pop_adult": 973,
+    "pop_senior": 107
+  },
+  "2104": {
+    "name": "Taltal",
+    "population": 13967,
+    "pop_male": 7089,
+    "pop_female": 6878,
+    "pop_youth": 2670,
+    "pop_adult": 6689,
+    "pop_senior": 1577
+  },
+  "2201": {
+    "name": "Calama",
+    "population": 196152,
+    "pop_male": 98682,
+    "pop_female": 97470,
+    "pop_youth": 42750,
+    "pop_adult": 96487,
+    "pop_senior": 15705
+  },
+  "2202": {
+    "name": "Ollagüe",
+    "population": 269,
+    "pop_male": 143,
+    "pop_female": 126,
+    "pop_youth": 43,
+    "pop_adult": 143,
+    "pop_senior": 32
+  },
+  "2203": {
+    "name": "San Pedro de Atacama",
+    "population": 11030,
+    "pop_male": 5561,
+    "pop_female": 5469,
+    "pop_youth": 2415,
+    "pop_adult": 5666,
+    "pop_senior": 906
+  },
+  "2301": {
+    "name": "Tocopilla",
+    "population": 28354,
+    "pop_male": 14199,
+    "pop_female": 14155,
+    "pop_youth": 5525,
+    "pop_adult": 13124,
+    "pop_senior": 3514
+  },
+  "2302": {
+    "name": "María Elena",
+    "population": 6507,
+    "pop_male": 3340,
+    "pop_female": 3167,
+    "pop_youth": 1366,
+    "pop_adult": 3421,
+    "pop_senior": 455
+  },
+  "3101": {
+    "name": "Copiapó",
+    "population": 176100,
+    "pop_male": 88474,
+    "pop_female": 87626,
+    "pop_youth": 37403,
+    "pop_adult": 81634,
+    "pop_senior": 19784
+  },
+  "3102": {
+    "name": "Caldera",
+    "population": 19964,
+    "pop_male": 10132,
+    "pop_female": 9832,
+    "pop_youth": 3780,
+    "pop_adult": 9460,
+    "pop_senior": 2560
+  },
+  "3103": {
+    "name": "Tierra Amarilla",
+    "population": 14431,
+    "pop_male": 7453,
+    "pop_female": 6978,
+    "pop_youth": 3028,
+    "pop_adult": 6728,
+    "pop_senior": 1495
+  },
+  "3201": {
+    "name": "Chañaral",
+    "population": 13017,
+    "pop_male": 6599,
+    "pop_female": 6418,
+    "pop_youth": 2442,
+    "pop_adult": 5859,
+    "pop_senior": 1843
+  },
+  "3202": {
+    "name": "Diego de Almagro",
+    "population": 13909,
+    "pop_male": 7061,
+    "pop_female": 6848,
+    "pop_youth": 2412,
+    "pop_adult": 6960,
+    "pop_senior": 1320
+  },
+  "3301": {
+    "name": "Vallenar",
+    "population": 57360,
+    "pop_male": 28774,
+    "pop_female": 28586,
+    "pop_youth": 10330,
+    "pop_adult": 26363,
+    "pop_senior": 8702
+  },
+  "3302": {
+    "name": "Alto del Carmen",
+    "population": 5781,
+    "pop_male": 2979,
+    "pop_female": 2802,
+    "pop_youth": 850,
+    "pop_adult": 2715,
+    "pop_senior": 1169
+  },
+  "3303": {
+    "name": "Freirina",
+    "population": 7840,
+    "pop_male": 3961,
+    "pop_female": 3879,
+    "pop_youth": 1362,
+    "pop_adult": 3592,
+    "pop_senior": 1233
+  },
+  "3304": {
+    "name": "Huasco",
+    "population": 11590,
+    "pop_male": 5898,
+    "pop_female": 5692,
+    "pop_youth": 1978,
+    "pop_adult": 5487,
+    "pop_senior": 1761
+  },
+  "4101": {
+    "name": "La Serena",
+    "population": 267400,
+    "pop_male": 130296,
+    "pop_female": 137104,
+    "pop_youth": 58507,
+    "pop_adult": 121783,
+    "pop_senior": 36299
+  },
+  "4102": {
+    "name": "Coquimbo",
+    "population": 275644,
+    "pop_male": 134319,
+    "pop_female": 141325,
+    "pop_youth": 57514,
+    "pop_adult": 126613,
+    "pop_senior": 36310
+  },
+  "4103": {
+    "name": "Andacollo",
+    "population": 11836,
+    "pop_male": 5872,
+    "pop_female": 5964,
+    "pop_youth": 2147,
+    "pop_adult": 5395,
+    "pop_senior": 1985
+  },
+  "4104": {
+    "name": "La Higuera",
+    "population": 4533,
+    "pop_male": 2284,
+    "pop_female": 2249,
+    "pop_youth": 734,
+    "pop_adult": 2103,
+    "pop_senior": 773
+  },
+  "4105": {
+    "name": "Paiguano",
+    "population": 4709,
+    "pop_male": 2320,
+    "pop_female": 2389,
+    "pop_youth": 790,
+    "pop_adult": 2272,
+    "pop_senior": 857
+  },
+  "4106": {
+    "name": "Vicuña",
+    "population": 30541,
+    "pop_male": 15019,
+    "pop_female": 15522,
+    "pop_youth": 5728,
+    "pop_adult": 14101,
+    "pop_senior": 4734
+  },
+  "4201": {
+    "name": "Illapel",
+    "population": 33021,
+    "pop_male": 16045,
+    "pop_female": 16976,
+    "pop_youth": 5484,
+    "pop_adult": 15488,
+    "pop_senior": 5701
+  },
+  "4202": {
+    "name": "Canela",
+    "population": 9509,
+    "pop_male": 4749,
+    "pop_female": 4760,
+    "pop_youth": 1358,
+    "pop_adult": 4345,
+    "pop_senior": 2298
+  },
+  "4203": {
+    "name": "Los Vilos",
+    "population": 24408,
+    "pop_male": 12265,
+    "pop_female": 12143,
+    "pop_youth": 4304,
+    "pop_adult": 11519,
+    "pop_senior": 3953
+  },
+  "4204": {
+    "name": "Salamanca",
+    "population": 29916,
+    "pop_male": 14909,
+    "pop_female": 15007,
+    "pop_youth": 4947,
+    "pop_adult": 14371,
+    "pop_senior": 4961
+  },
+  "4301": {
+    "name": "Ovalle",
+    "population": 124401,
+    "pop_male": 60896,
+    "pop_female": 63505,
+    "pop_youth": 24040,
+    "pop_adult": 57172,
+    "pop_senior": 18569
+  },
+  "4302": {
+    "name": "Combarbalá",
+    "population": 13855,
+    "pop_male": 6826,
+    "pop_female": 7029,
+    "pop_youth": 1853,
+    "pop_adult": 6558,
+    "pop_senior": 3213
+  },
+  "4303": {
+    "name": "Monte Patria",
+    "population": 32672,
+    "pop_male": 16163,
+    "pop_female": 16509,
+    "pop_youth": 5933,
+    "pop_adult": 14992,
+    "pop_senior": 5332
+  },
+  "4304": {
+    "name": "Punitaqui",
+    "population": 12514,
+    "pop_male": 6172,
+    "pop_female": 6342,
+    "pop_youth": 2097,
+    "pop_adult": 5622,
+    "pop_senior": 2311
+  },
+  "4305": {
+    "name": "Río Hurtado",
+    "population": 4308,
+    "pop_male": 2113,
+    "pop_female": 2195,
+    "pop_youth": 601,
+    "pop_adult": 2000,
+    "pop_senior": 1043
+  },
+  "5101": {
+    "name": "Valparaíso",
+    "population": 320816,
+    "pop_male": 157693,
+    "pop_female": 163123,
+    "pop_youth": 72612,
+    "pop_adult": 143242,
+    "pop_senior": 52596
+  },
+  "5102": {
+    "name": "Casablanca",
+    "population": 30543,
+    "pop_male": 15069,
+    "pop_female": 15474,
+    "pop_youth": 5846,
+    "pop_adult": 14398,
+    "pop_senior": 4571
+  },
+  "5103": {
+    "name": "Concón",
+    "population": 48171,
+    "pop_male": 23578,
+    "pop_female": 24593,
+    "pop_youth": 9787,
+    "pop_adult": 22770,
+    "pop_senior": 6925
+  },
+  "5104": {
+    "name": "Juan Fernández",
+    "population": 1104,
+    "pop_male": 561,
+    "pop_female": 543,
+    "pop_youth": 188,
+    "pop_adult": 575,
+    "pop_senior": 129
+  },
+  "5105": {
+    "name": "Puchuncaví",
+    "population": 21221,
+    "pop_male": 10529,
+    "pop_female": 10692,
+    "pop_youth": 3762,
+    "pop_adult": 9851,
+    "pop_senior": 3728
+  },
+  "5107": {
+    "name": "Quintero",
+    "population": 38613,
+    "pop_male": 19081,
+    "pop_female": 19532,
+    "pop_youth": 7435,
+    "pop_adult": 17592,
+    "pop_senior": 6265
+  },
+  "5109": {
+    "name": "Viña del Mar",
+    "population": 371490,
+    "pop_male": 179355,
+    "pop_female": 192135,
+    "pop_youth": 84601,
+    "pop_adult": 163567,
+    "pop_senior": 66931
+  },
+  "5201": {
+    "name": "Isla de Pascua",
+    "population": 8872,
+    "pop_male": 4381,
+    "pop_female": 4491,
+    "pop_youth": 1792,
+    "pop_adult": 4559,
+    "pop_senior": 650
+  },
+  "5301": {
+    "name": "Los Andes",
+    "population": 68939,
+    "pop_male": 33700,
+    "pop_female": 35239,
+    "pop_youth": 13122,
+    "pop_adult": 32303,
+    "pop_senior": 10466
+  },
+  "5302": {
+    "name": "Calle Larga",
+    "population": 17673,
+    "pop_male": 8689,
+    "pop_female": 8984,
+    "pop_youth": 3362,
+    "pop_adult": 8190,
+    "pop_senior": 2445
+  },
+  "5303": {
+    "name": "Rinconada",
+    "population": 12030,
+    "pop_male": 5971,
+    "pop_female": 6059,
+    "pop_youth": 2199,
+    "pop_adult": 5668,
+    "pop_senior": 1603
+  },
+  "5304": {
+    "name": "San Esteban",
+    "population": 21756,
+    "pop_male": 10714,
+    "pop_female": 11042,
+    "pop_youth": 3957,
+    "pop_adult": 10279,
+    "pop_senior": 3170
+  },
+  "5401": {
+    "name": "La Ligua",
+    "population": 38387,
+    "pop_male": 18843,
+    "pop_female": 19544,
+    "pop_youth": 6691,
+    "pop_adult": 18330,
+    "pop_senior": 6324
+  },
+  "5402": {
+    "name": "Cabildo",
+    "population": 20757,
+    "pop_male": 10211,
+    "pop_female": 10546,
+    "pop_youth": 3765,
+    "pop_adult": 9682,
+    "pop_senior": 3150
+  },
+  "5403": {
+    "name": "Papudo",
+    "population": 6438,
+    "pop_male": 3198,
+    "pop_female": 3240,
+    "pop_youth": 1138,
+    "pop_adult": 3132,
+    "pop_senior": 1037
+  },
+  "5404": {
+    "name": "Petorca",
+    "population": 10633,
+    "pop_male": 5281,
+    "pop_female": 5352,
+    "pop_youth": 1872,
+    "pop_adult": 5034,
+    "pop_senior": 1897
+  },
+  "5405": {
+    "name": "Zapallar",
+    "population": 8368,
+    "pop_male": 4161,
+    "pop_female": 4207,
+    "pop_youth": 1472,
+    "pop_adult": 4041,
+    "pop_senior": 1446
+  },
+  "5501": {
+    "name": "Quillota",
+    "population": 100972,
+    "pop_male": 49274,
+    "pop_female": 51698,
+    "pop_youth": 19874,
+    "pop_adult": 46350,
+    "pop_senior": 16268
+  },
+  "5502": {
+    "name": "Calera",
+    "population": 53902,
+    "pop_male": 26433,
+    "pop_female": 27469,
+    "pop_youth": 10801,
+    "pop_adult": 24454,
+    "pop_senior": 8579
+  },
+  "5503": {
+    "name": "Hijuelas",
+    "population": 19464,
+    "pop_male": 9678,
+    "pop_female": 9786,
+    "pop_youth": 3825,
+    "pop_adult": 9129,
+    "pop_senior": 2799
+  },
+  "5504": {
+    "name": "La Cruz",
+    "population": 27898,
+    "pop_male": 13624,
+    "pop_female": 14274,
+    "pop_youth": 5284,
+    "pop_adult": 13254,
+    "pop_senior": 3528
+  },
+  "5506": {
+    "name": "Nogales",
+    "population": 23645,
+    "pop_male": 11660,
+    "pop_female": 11985,
+    "pop_youth": 4632,
+    "pop_adult": 10705,
+    "pop_senior": 3804
+  },
+  "5601": {
+    "name": "San Antonio",
+    "population": 98579,
+    "pop_male": 48420,
+    "pop_female": 50159,
+    "pop_youth": 18478,
+    "pop_adult": 46287,
+    "pop_senior": 15346
+  },
+  "5602": {
+    "name": "Algarrobo",
+    "population": 16095,
+    "pop_male": 7935,
+    "pop_female": 8160,
+    "pop_youth": 2445,
+    "pop_adult": 7375,
+    "pop_senior": 3698
+  },
+  "5603": {
+    "name": "Cartagena",
+    "population": 27065,
+    "pop_male": 13353,
+    "pop_female": 13712,
+    "pop_youth": 4600,
+    "pop_adult": 12057,
+    "pop_senior": 5452
+  },
+  "5604": {
+    "name": "El Quisco",
+    "population": 18840,
+    "pop_male": 9294,
+    "pop_female": 9546,
+    "pop_youth": 2729,
+    "pop_adult": 8350,
+    "pop_senior": 4730
+  },
+  "5605": {
+    "name": "El Tabo",
+    "population": 15196,
+    "pop_male": 7540,
+    "pop_female": 7656,
+    "pop_youth": 2107,
+    "pop_adult": 6915,
+    "pop_senior": 3889
+  },
+  "5606": {
+    "name": "Santo Domingo",
+    "population": 12609,
+    "pop_male": 6246,
+    "pop_female": 6363,
+    "pop_youth": 1931,
+    "pop_adult": 6241,
+    "pop_senior": 2057
+  },
+  "5701": {
+    "name": "San Felipe",
+    "population": 86838,
+    "pop_male": 42479,
+    "pop_female": 44359,
+    "pop_youth": 17278,
+    "pop_adult": 40117,
+    "pop_senior": 12374
+  },
+  "5702": {
+    "name": "Catemu",
+    "population": 15714,
+    "pop_male": 7804,
+    "pop_female": 7910,
+    "pop_youth": 2897,
+    "pop_adult": 7316,
+    "pop_senior": 2503
+  },
+  "5703": {
+    "name": "Llaillay",
+    "population": 27286,
+    "pop_male": 13506,
+    "pop_female": 13780,
+    "pop_youth": 5170,
+    "pop_adult": 12647,
+    "pop_senior": 4134
+  },
+  "5704": {
+    "name": "Panquehue",
+    "population": 7841,
+    "pop_male": 3906,
+    "pop_female": 3935,
+    "pop_youth": 1482,
+    "pop_adult": 3721,
+    "pop_senior": 1133
+  },
+  "5705": {
+    "name": "Putaendo",
+    "population": 18023,
+    "pop_male": 8915,
+    "pop_female": 9108,
+    "pop_youth": 3266,
+    "pop_adult": 8201,
+    "pop_senior": 3278
+  },
+  "5706": {
+    "name": "Santa María",
+    "population": 16962,
+    "pop_male": 8405,
+    "pop_female": 8557,
+    "pop_youth": 3247,
+    "pop_adult": 7919,
+    "pop_senior": 2580
+  },
+  "5801": {
+    "name": "Quilpué",
+    "population": 173591,
+    "pop_male": 84226,
+    "pop_female": 89365,
+    "pop_youth": 34551,
+    "pop_adult": 79024,
+    "pop_senior": 30865
+  },
+  "5802": {
+    "name": "Limache",
+    "population": 51697,
+    "pop_male": 25142,
+    "pop_female": 26555,
+    "pop_youth": 9952,
+    "pop_adult": 23341,
+    "pop_senior": 8782
+  },
+  "5803": {
+    "name": "Olmué",
+    "population": 20247,
+    "pop_male": 9956,
+    "pop_female": 10291,
+    "pop_youth": 3667,
+    "pop_adult": 9194,
+    "pop_senior": 3905
+  },
+  "5804": {
+    "name": "Villa Alemana",
+    "population": 147418,
+    "pop_male": 71537,
+    "pop_female": 75881,
+    "pop_youth": 29575,
+    "pop_adult": 67412,
+    "pop_senior": 23423
+  },
+  "6101": {
+    "name": "Rancagua",
+    "population": 274407,
+    "pop_male": 136524,
+    "pop_female": 137883,
+    "pop_youth": 52460,
+    "pop_adult": 130025,
+    "pop_senior": 40270
+  },
+  "6102": {
+    "name": "Codegua",
+    "population": 14627,
+    "pop_male": 7343,
+    "pop_female": 7284,
+    "pop_youth": 2618,
+    "pop_adult": 7165,
+    "pop_senior": 2025
+  },
+  "6103": {
+    "name": "Coinco",
+    "population": 8024,
+    "pop_male": 4050,
+    "pop_female": 3974,
+    "pop_youth": 1371,
+    "pop_adult": 3805,
+    "pop_senior": 1505
+  },
+  "6104": {
+    "name": "Coltauco",
+    "population": 22143,
+    "pop_male": 11107,
+    "pop_female": 11036,
+    "pop_youth": 4079,
+    "pop_adult": 10328,
+    "pop_senior": 3610
+  },
+  "6105": {
+    "name": "Doñihue",
+    "population": 23647,
+    "pop_male": 11850,
+    "pop_female": 11797,
+    "pop_youth": 4246,
+    "pop_adult": 11276,
+    "pop_senior": 3549
+  },
+  "6106": {
+    "name": "Graneros",
+    "population": 38185,
+    "pop_male": 19118,
+    "pop_female": 19067,
+    "pop_youth": 7391,
+    "pop_adult": 18088,
+    "pop_senior": 4737
+  },
+  "6107": {
+    "name": "Las Cabras",
+    "population": 27749,
+    "pop_male": 14032,
+    "pop_female": 13717,
+    "pop_youth": 4689,
+    "pop_adult": 13516,
+    "pop_senior": 4633
+  },
+  "6108": {
+    "name": "Machalí",
+    "population": 64751,
+    "pop_male": 32200,
+    "pop_female": 32551,
+    "pop_youth": 10623,
+    "pop_adult": 32783,
+    "pop_senior": 6865
+  },
+  "6109": {
+    "name": "Malloa",
+    "population": 14300,
+    "pop_male": 7213,
+    "pop_female": 7087,
+    "pop_youth": 2574,
+    "pop_adult": 6812,
+    "pop_senior": 2508
+  },
+  "6110": {
+    "name": "Mostazal",
+    "population": 28552,
+    "pop_male": 14285,
+    "pop_female": 14267,
+    "pop_youth": 5421,
+    "pop_adult": 13361,
+    "pop_senior": 4197
+  },
+  "6111": {
+    "name": "Olivar",
+    "population": 15007,
+    "pop_male": 7542,
+    "pop_female": 7465,
+    "pop_youth": 2831,
+    "pop_adult": 7311,
+    "pop_senior": 2059
+  },
+  "6112": {
+    "name": "Peumo",
+    "population": 15028,
+    "pop_male": 7539,
+    "pop_female": 7489,
+    "pop_youth": 2583,
+    "pop_adult": 7277,
+    "pop_senior": 2514
+  },
+  "6113": {
+    "name": "Pichidegua",
+    "population": 21074,
+    "pop_male": 10631,
+    "pop_female": 10443,
+    "pop_youth": 3392,
+    "pop_adult": 10378,
+    "pop_senior": 3724
+  },
+  "6114": {
+    "name": "Quinta de Tilcoco",
+    "population": 14288,
+    "pop_male": 7162,
+    "pop_female": 7126,
+    "pop_youth": 2410,
+    "pop_adult": 7066,
+    "pop_senior": 2345
+  },
+  "6115": {
+    "name": "Rengo",
+    "population": 65786,
+    "pop_male": 32753,
+    "pop_female": 33033,
+    "pop_youth": 12384,
+    "pop_adult": 31057,
+    "pop_senior": 9827
+  },
+  "6116": {
+    "name": "Requínoa",
+    "population": 31724,
+    "pop_male": 15930,
+    "pop_female": 15794,
+    "pop_youth": 5951,
+    "pop_adult": 15413,
+    "pop_senior": 4098
+  },
+  "6117": {
+    "name": "San Vicente",
+    "population": 52289,
+    "pop_male": 26190,
+    "pop_female": 26099,
+    "pop_youth": 8583,
+    "pop_adult": 25518,
+    "pop_senior": 9057
+  },
+  "6201": {
+    "name": "Pichilemu",
+    "population": 18804,
+    "pop_male": 9474,
+    "pop_female": 9330,
+    "pop_youth": 2956,
+    "pop_adult": 9505,
+    "pop_senior": 3156
+  },
+  "6202": {
+    "name": "La Estrella",
+    "population": 3098,
+    "pop_male": 1579,
+    "pop_female": 1519,
+    "pop_youth": 399,
+    "pop_adult": 1542,
+    "pop_senior": 710
+  },
+  "6203": {
+    "name": "Litueche",
+    "population": 6949,
+    "pop_male": 3529,
+    "pop_female": 3420,
+    "pop_youth": 1073,
+    "pop_adult": 3418,
+    "pop_senior": 1376
+  },
+  "6204": {
+    "name": "Marchihue",
+    "population": 7715,
+    "pop_male": 3881,
+    "pop_female": 3834,
+    "pop_youth": 1129,
+    "pop_adult": 3768,
+    "pop_senior": 1635
+  },
+  "6205": {
+    "name": "Navidad",
+    "population": 7135,
+    "pop_male": 3620,
+    "pop_female": 3515,
+    "pop_youth": 916,
+    "pop_adult": 3330,
+    "pop_senior": 1897
+  },
+  "6206": {
+    "name": "Paredones",
+    "population": 6259,
+    "pop_male": 3187,
+    "pop_female": 3072,
+    "pop_youth": 831,
+    "pop_adult": 3073,
+    "pop_senior": 1505
+  },
+  "6301": {
+    "name": "San Fernando",
+    "population": 81117,
+    "pop_male": 40162,
+    "pop_female": 40955,
+    "pop_youth": 14455,
+    "pop_adult": 38836,
+    "pop_senior": 12357
+  },
+  "6302": {
+    "name": "Chépica",
+    "population": 16148,
+    "pop_male": 8113,
+    "pop_female": 8035,
+    "pop_youth": 2664,
+    "pop_adult": 7816,
+    "pop_senior": 3006
+  },
+  "6303": {
+    "name": "Chimbarongo",
+    "population": 38451,
+    "pop_male": 19322,
+    "pop_female": 19129,
+    "pop_youth": 6810,
+    "pop_adult": 18742,
+    "pop_senior": 5939
+  },
+  "6304": {
+    "name": "Lolol",
+    "population": 7454,
+    "pop_male": 3760,
+    "pop_female": 3694,
+    "pop_youth": 1121,
+    "pop_adult": 3579,
+    "pop_senior": 1627
+  },
+  "6305": {
+    "name": "Nancagua",
+    "population": 19725,
+    "pop_male": 9833,
+    "pop_female": 9892,
+    "pop_youth": 3490,
+    "pop_adult": 9473,
+    "pop_senior": 3210
+  },
+  "6306": {
+    "name": "Palmilla",
+    "population": 13597,
+    "pop_male": 6850,
+    "pop_female": 6747,
+    "pop_youth": 2215,
+    "pop_adult": 6907,
+    "pop_senior": 2236
+  },
+  "6307": {
+    "name": "Peralillo",
+    "population": 12174,
+    "pop_male": 6109,
+    "pop_female": 6065,
+    "pop_youth": 1913,
+    "pop_adult": 6011,
+    "pop_senior": 2254
+  },
+  "6308": {
+    "name": "Placilla",
+    "population": 9281,
+    "pop_male": 4670,
+    "pop_female": 4611,
+    "pop_youth": 1572,
+    "pop_adult": 4515,
+    "pop_senior": 1624
+  },
+  "6309": {
+    "name": "Pumanque",
+    "population": 3516,
+    "pop_male": 1782,
+    "pop_female": 1734,
+    "pop_youth": 524,
+    "pop_adult": 1712,
+    "pop_senior": 865
+  },
+  "6310": {
+    "name": "Santa Cruz",
+    "population": 42582,
+    "pop_male": 21157,
+    "pop_female": 21425,
+    "pop_youth": 7078,
+    "pop_adult": 20940,
+    "pop_senior": 7051
+  },
+  "7101": {
+    "name": "Talca",
+    "population": 242344,
+    "pop_male": 117441,
+    "pop_female": 124903,
+    "pop_youth": 52968,
+    "pop_adult": 109612,
+    "pop_senior": 37263
+  },
+  "7102": {
+    "name": "Constitución",
+    "population": 50646,
+    "pop_male": 25104,
+    "pop_female": 25542,
+    "pop_youth": 9536,
+    "pop_adult": 24250,
+    "pop_senior": 6608
+  },
+  "7103": {
+    "name": "Curepto",
+    "population": 9136,
+    "pop_male": 4572,
+    "pop_female": 4564,
+    "pop_youth": 1266,
+    "pop_adult": 4284,
+    "pop_senior": 2337
+  },
+  "7104": {
+    "name": "Empedrado",
+    "population": 4176,
+    "pop_male": 2117,
+    "pop_female": 2059,
+    "pop_youth": 728,
+    "pop_adult": 1983,
+    "pop_senior": 691
+  },
+  "7105": {
+    "name": "Maule",
+    "population": 68975,
+    "pop_male": 33647,
+    "pop_female": 35328,
+    "pop_youth": 13887,
+    "pop_adult": 32320,
+    "pop_senior": 6087
+  },
+  "7106": {
+    "name": "Pelarco",
+    "population": 9407,
+    "pop_male": 4668,
+    "pop_female": 4739,
+    "pop_youth": 1700,
+    "pop_adult": 4293,
+    "pop_senior": 1759
+  },
+  "7107": {
+    "name": "Pencahue",
+    "population": 8626,
+    "pop_male": 4317,
+    "pop_female": 4309,
+    "pop_youth": 1408,
+    "pop_adult": 4131,
+    "pop_senior": 1694
+  },
+  "7108": {
+    "name": "Río Claro",
+    "population": 15129,
+    "pop_male": 7608,
+    "pop_female": 7521,
+    "pop_youth": 2682,
+    "pop_adult": 7259,
+    "pop_senior": 2554
+  },
+  "7109": {
+    "name": "San Clemente",
+    "population": 47999,
+    "pop_male": 23690,
+    "pop_female": 24309,
+    "pop_youth": 9081,
+    "pop_adult": 22020,
+    "pop_senior": 7638
+  },
+  "7110": {
+    "name": "San Rafael",
+    "population": 10399,
+    "pop_male": 5149,
+    "pop_female": 5250,
+    "pop_youth": 1985,
+    "pop_adult": 4682,
+    "pop_senior": 1679
+  },
+  "7201": {
+    "name": "Cauquenes",
+    "population": 44446,
+    "pop_male": 21618,
+    "pop_female": 22828,
+    "pop_youth": 7084,
+    "pop_adult": 20186,
+    "pop_senior": 9317
+  },
+  "7202": {
+    "name": "Chanco",
+    "population": 9256,
+    "pop_male": 4583,
+    "pop_female": 4673,
+    "pop_youth": 1437,
+    "pop_adult": 4403,
+    "pop_senior": 1834
+  },
+  "7203": {
+    "name": "Pelluhue",
+    "population": 8444,
+    "pop_male": 4161,
+    "pop_female": 4283,
+    "pop_youth": 1260,
+    "pop_adult": 3885,
+    "pop_senior": 1781
+  },
+  "7301": {
+    "name": "Curicó",
+    "population": 171589,
+    "pop_male": 84120,
+    "pop_female": 87469,
+    "pop_youth": 33115,
+    "pop_adult": 82032,
+    "pop_senior": 23954
+  },
+  "7302": {
+    "name": "Hualañé",
+    "population": 10225,
+    "pop_male": 5089,
+    "pop_female": 5136,
+    "pop_youth": 1595,
+    "pop_adult": 4825,
+    "pop_senior": 2159
+  },
+  "7303": {
+    "name": "Licantén",
+    "population": 6986,
+    "pop_male": 3478,
+    "pop_female": 3508,
+    "pop_youth": 1095,
+    "pop_adult": 3415,
+    "pop_senior": 1303
+  },
+  "7304": {
+    "name": "Molina",
+    "population": 52088,
+    "pop_male": 25550,
+    "pop_female": 26538,
+    "pop_youth": 9623,
+    "pop_adult": 24615,
+    "pop_senior": 8113
+  },
+  "7305": {
+    "name": "Rauco",
+    "population": 11753,
+    "pop_male": 5809,
+    "pop_female": 5944,
+    "pop_youth": 2075,
+    "pop_adult": 5533,
+    "pop_senior": 2056
+  },
+  "7306": {
+    "name": "Romeral",
+    "population": 16925,
+    "pop_male": 8334,
+    "pop_female": 8591,
+    "pop_youth": 3009,
+    "pop_adult": 8266,
+    "pop_senior": 2524
+  },
+  "7307": {
+    "name": "Sagrada Familia",
+    "population": 19754,
+    "pop_male": 9815,
+    "pop_female": 9939,
+    "pop_youth": 3521,
+    "pop_adult": 9667,
+    "pop_senior": 3147
+  },
+  "7308": {
+    "name": "Teno",
+    "population": 31885,
+    "pop_male": 15887,
+    "pop_female": 15998,
+    "pop_youth": 5912,
+    "pop_adult": 15252,
+    "pop_senior": 5017
+  },
+  "7309": {
+    "name": "Vichuquén",
+    "population": 4311,
+    "pop_male": 2145,
+    "pop_female": 2166,
+    "pop_youth": 588,
+    "pop_adult": 2136,
+    "pop_senior": 923
+  },
+  "7401": {
+    "name": "Linares",
+    "population": 103958,
+    "pop_male": 50256,
+    "pop_female": 53702,
+    "pop_youth": 18642,
+    "pop_adult": 48937,
+    "pop_senior": 16646
+  },
+  "7402": {
+    "name": "Colbún",
+    "population": 23479,
+    "pop_male": 11541,
+    "pop_female": 11938,
+    "pop_youth": 4297,
+    "pop_adult": 10832,
+    "pop_senior": 3976
+  },
+  "7403": {
+    "name": "Longaví",
+    "population": 33666,
+    "pop_male": 16784,
+    "pop_female": 16882,
+    "pop_youth": 5822,
+    "pop_adult": 16258,
+    "pop_senior": 5599
+  },
+  "7404": {
+    "name": "Parral",
+    "population": 45583,
+    "pop_male": 22240,
+    "pop_female": 23343,
+    "pop_youth": 7522,
+    "pop_adult": 21273,
+    "pop_senior": 8131
+  },
+  "7405": {
+    "name": "Retiro",
+    "population": 21492,
+    "pop_male": 10657,
+    "pop_female": 10835,
+    "pop_youth": 3429,
+    "pop_adult": 10411,
+    "pop_senior": 3816
+  },
+  "7406": {
+    "name": "San Javier",
+    "population": 51469,
+    "pop_male": 25068,
+    "pop_female": 26401,
+    "pop_youth": 9754,
+    "pop_adult": 23284,
+    "pop_senior": 8644
+  },
+  "7407": {
+    "name": "Villa Alegre",
+    "population": 18036,
+    "pop_male": 8771,
+    "pop_female": 9265,
+    "pop_youth": 3095,
+    "pop_adult": 8318,
+    "pop_senior": 3387
+  },
+  "7408": {
+    "name": "Yerbas Buenas",
+    "population": 19800,
+    "pop_male": 9829,
+    "pop_female": 9971,
+    "pop_youth": 3528,
+    "pop_adult": 9409,
+    "pop_senior": 3098
+  },
+  "8101": {
+    "name": "Concepción",
+    "population": 239776,
+    "pop_male": 116725,
+    "pop_female": 123051,
+    "pop_youth": 59559,
+    "pop_adult": 108568,
+    "pop_senior": 38157
+  },
+  "8102": {
+    "name": "Coronel",
+    "population": 128941,
+    "pop_male": 62496,
+    "pop_female": 66445,
+    "pop_youth": 26015,
+    "pop_adult": 60918,
+    "pop_senior": 16193
+  },
+  "8103": {
+    "name": "Chiguayante",
+    "population": 91963,
+    "pop_male": 44398,
+    "pop_female": 47565,
+    "pop_youth": 19272,
+    "pop_adult": 43418,
+    "pop_senior": 13214
+  },
+  "8104": {
+    "name": "Florida",
+    "population": 11873,
+    "pop_male": 5861,
+    "pop_female": 6012,
+    "pop_youth": 1888,
+    "pop_adult": 5704,
+    "pop_senior": 2503
+  },
+  "8105": {
+    "name": "Hualqui",
+    "population": 26746,
+    "pop_male": 12927,
+    "pop_female": 13819,
+    "pop_youth": 5255,
+    "pop_adult": 12536,
+    "pop_senior": 3804
+  },
+  "8106": {
+    "name": "Lota",
+    "population": 45407,
+    "pop_male": 22150,
+    "pop_female": 23257,
+    "pop_youth": 8792,
+    "pop_adult": 21291,
+    "pop_senior": 7315
+  },
+  "8107": {
+    "name": "Penco",
+    "population": 50189,
+    "pop_male": 24342,
+    "pop_female": 25847,
+    "pop_youth": 9895,
+    "pop_adult": 23780,
+    "pop_senior": 7583
+  },
+  "8108": {
+    "name": "San Pedro de la Paz",
+    "population": 153516,
+    "pop_male": 74145,
+    "pop_female": 79371,
+    "pop_youth": 30583,
+    "pop_adult": 73953,
+    "pop_senior": 17187
+  },
+  "8109": {
+    "name": "Santa Juana",
+    "population": 14890,
+    "pop_male": 7296,
+    "pop_female": 7594,
+    "pop_youth": 2647,
+    "pop_adult": 6843,
+    "pop_senior": 2737
+  },
+  "8110": {
+    "name": "Talcahuano",
+    "population": 158167,
+    "pop_male": 76972,
+    "pop_female": 81195,
+    "pop_youth": 32392,
+    "pop_adult": 74913,
+    "pop_senior": 24299
+  },
+  "8111": {
+    "name": "Tomé",
+    "population": 59150,
+    "pop_male": 28641,
+    "pop_female": 30509,
+    "pop_youth": 10884,
+    "pop_adult": 27589,
+    "pop_senior": 10668
+  },
+  "8112": {
+    "name": "Hualpén",
+    "population": 98055,
+    "pop_male": 47427,
+    "pop_female": 50628,
+    "pop_youth": 19848,
+    "pop_adult": 46029,
+    "pop_senior": 15588
+  },
+  "8201": {
+    "name": "Lebu",
+    "population": 27152,
+    "pop_male": 13269,
+    "pop_female": 13883,
+    "pop_youth": 4973,
+    "pop_adult": 12932,
+    "pop_senior": 3823
+  },
+  "8202": {
+    "name": "Arauco",
+    "population": 38941,
+    "pop_male": 19086,
+    "pop_female": 19855,
+    "pop_youth": 7230,
+    "pop_adult": 18718,
+    "pop_senior": 5495
+  },
+  "8203": {
+    "name": "Cañete",
+    "population": 37443,
+    "pop_male": 18167,
+    "pop_female": 19276,
+    "pop_youth": 6732,
+    "pop_adult": 17292,
+    "pop_senior": 5655
+  },
+  "8204": {
+    "name": "Contulmo",
+    "population": 6355,
+    "pop_male": 3137,
+    "pop_female": 3218,
+    "pop_youth": 1042,
+    "pop_adult": 3016,
+    "pop_senior": 1154
+  },
+  "8205": {
+    "name": "Curanilahue",
+    "population": 33942,
+    "pop_male": 16635,
+    "pop_female": 17307,
+    "pop_youth": 6160,
+    "pop_adult": 16381,
+    "pop_senior": 4914
+  },
+  "8206": {
+    "name": "Los Álamos",
+    "population": 22953,
+    "pop_male": 11166,
+    "pop_female": 11787,
+    "pop_youth": 4179,
+    "pop_adult": 10710,
+    "pop_senior": 3085
+  },
+  "8207": {
+    "name": "Tirúa",
+    "population": 11105,
+    "pop_male": 5451,
+    "pop_female": 5654,
+    "pop_youth": 2191,
+    "pop_adult": 5091,
+    "pop_senior": 1380
+  },
+  "8301": {
+    "name": "Los Angeles",
+    "population": 223751,
+    "pop_male": 108701,
+    "pop_female": 115050,
+    "pop_youth": 43392,
+    "pop_adult": 105576,
+    "pop_senior": 30885
+  },
+  "8302": {
+    "name": "Antuco",
+    "population": 4325,
+    "pop_male": 2116,
+    "pop_female": 2209,
+    "pop_youth": 739,
+    "pop_adult": 1984,
+    "pop_senior": 878
+  },
+  "8303": {
+    "name": "Cabrero",
+    "population": 31102,
+    "pop_male": 15211,
+    "pop_female": 15891,
+    "pop_youth": 5831,
+    "pop_adult": 14836,
+    "pop_senior": 4767
+  },
+  "8304": {
+    "name": "Laja",
+    "population": 23921,
+    "pop_male": 11707,
+    "pop_female": 12214,
+    "pop_youth": 4288,
+    "pop_adult": 11124,
+    "pop_senior": 4048
+  },
+  "8305": {
+    "name": "Mulchén",
+    "population": 31122,
+    "pop_male": 15273,
+    "pop_female": 15849,
+    "pop_youth": 5862,
+    "pop_adult": 14130,
+    "pop_senior": 5165
+  },
+  "8306": {
+    "name": "Nacimiento",
+    "population": 28028,
+    "pop_male": 13764,
+    "pop_female": 14264,
+    "pop_youth": 5208,
+    "pop_adult": 13170,
+    "pop_senior": 4231
+  },
+  "8307": {
+    "name": "Negrete",
+    "population": 10574,
+    "pop_male": 5201,
+    "pop_female": 5373,
+    "pop_youth": 1969,
+    "pop_adult": 4900,
+    "pop_senior": 1674
+  },
+  "8308": {
+    "name": "Quilaco",
+    "population": 4186,
+    "pop_male": 2068,
+    "pop_female": 2118,
+    "pop_youth": 658,
+    "pop_adult": 1865,
+    "pop_senior": 1026
+  },
+  "8309": {
+    "name": "Quilleco",
+    "population": 9986,
+    "pop_male": 4902,
+    "pop_female": 5084,
+    "pop_youth": 1742,
+    "pop_adult": 4427,
+    "pop_senior": 2155
+  },
+  "8310": {
+    "name": "San Rosendo",
+    "population": 3553,
+    "pop_male": 1744,
+    "pop_female": 1809,
+    "pop_youth": 576,
+    "pop_adult": 1655,
+    "pop_senior": 727
+  },
+  "8311": {
+    "name": "Santa Bárbara",
+    "population": 14671,
+    "pop_male": 7176,
+    "pop_female": 7495,
+    "pop_youth": 2697,
+    "pop_adult": 6635,
+    "pop_senior": 2557
+  },
+  "8312": {
+    "name": "Tucapel",
+    "population": 15428,
+    "pop_male": 7528,
+    "pop_female": 7900,
+    "pop_youth": 2616,
+    "pop_adult": 7108,
+    "pop_senior": 2977
+  },
+  "8313": {
+    "name": "Yumbel",
+    "population": 22210,
+    "pop_male": 10868,
+    "pop_female": 11342,
+    "pop_youth": 3411,
+    "pop_adult": 10626,
+    "pop_senior": 4651
+  },
+  "8314": {
+    "name": "Alto Biobío",
+    "population": 6804,
+    "pop_male": 3372,
+    "pop_female": 3432,
+    "pop_youth": 1414,
+    "pop_adult": 2934,
+    "pop_senior": 662
+  },
+  "9101": {
+    "name": "Temuco",
+    "population": 309696,
+    "pop_male": 149603,
+    "pop_female": 160093,
+    "pop_youth": 70725,
+    "pop_adult": 141676,
+    "pop_senior": 41512
+  },
+  "9102": {
+    "name": "Carahue",
+    "population": 25515,
+    "pop_male": 12637,
+    "pop_female": 12878,
+    "pop_youth": 4301,
+    "pop_adult": 11579,
+    "pop_senior": 4710
+  },
+  "9103": {
+    "name": "Cunco",
+    "population": 18068,
+    "pop_male": 8973,
+    "pop_female": 9095,
+    "pop_youth": 2913,
+    "pop_adult": 8157,
+    "pop_senior": 3859
+  },
+  "9104": {
+    "name": "Curarrehue",
+    "population": 7873,
+    "pop_male": 3936,
+    "pop_female": 3937,
+    "pop_youth": 1479,
+    "pop_adult": 3489,
+    "pop_senior": 1235
+  },
+  "9105": {
+    "name": "Freire",
+    "population": 25488,
+    "pop_male": 12669,
+    "pop_female": 12819,
+    "pop_youth": 4557,
+    "pop_adult": 11902,
+    "pop_senior": 4484
+  },
+  "9106": {
+    "name": "Galvarino",
+    "population": 12568,
+    "pop_male": 6252,
+    "pop_female": 6316,
+    "pop_youth": 2180,
+    "pop_adult": 5613,
+    "pop_senior": 2221
+  },
+  "9107": {
+    "name": "Gorbea",
+    "population": 15076,
+    "pop_male": 7359,
+    "pop_female": 7717,
+    "pop_youth": 2612,
+    "pop_adult": 6923,
+    "pop_senior": 3094
+  },
+  "9108": {
+    "name": "Lautaro",
+    "population": 41884,
+    "pop_male": 20404,
+    "pop_female": 21480,
+    "pop_youth": 8302,
+    "pop_adult": 18968,
+    "pop_senior": 6134
+  },
+  "9109": {
+    "name": "Loncoche",
+    "population": 24785,
+    "pop_male": 12152,
+    "pop_female": 12633,
+    "pop_youth": 4153,
+    "pop_adult": 11404,
+    "pop_senior": 4496
+  },
+  "9110": {
+    "name": "Melipeuco",
+    "population": 6319,
+    "pop_male": 3132,
+    "pop_female": 3187,
+    "pop_youth": 1003,
+    "pop_adult": 2827,
+    "pop_senior": 1357
+  },
+  "9111": {
+    "name": "Nueva Imperial",
+    "population": 34151,
+    "pop_male": 16683,
+    "pop_female": 17468,
+    "pop_youth": 6371,
+    "pop_adult": 15090,
+    "pop_senior": 5984
+  },
+  "9112": {
+    "name": "Padre Las Casas",
+    "population": 85373,
+    "pop_male": 41561,
+    "pop_female": 43812,
+    "pop_youth": 17873,
+    "pop_adult": 39171,
+    "pop_senior": 10392
+  },
+  "9113": {
+    "name": "Perquenco",
+    "population": 7269,
+    "pop_male": 3576,
+    "pop_female": 3693,
+    "pop_youth": 1329,
+    "pop_adult": 3321,
+    "pop_senior": 1208
+  },
+  "9114": {
+    "name": "Pitrufquen",
+    "population": 26617,
+    "pop_male": 12910,
+    "pop_female": 13707,
+    "pop_youth": 4653,
+    "pop_adult": 12219,
+    "pop_senior": 4969
+  },
+  "9115": {
+    "name": "Pucón",
+    "population": 30712,
+    "pop_male": 15107,
+    "pop_female": 15605,
+    "pop_youth": 5990,
+    "pop_adult": 14549,
+    "pop_senior": 4072
+  },
+  "9116": {
+    "name": "Saavedra",
+    "population": 12660,
+    "pop_male": 6234,
+    "pop_female": 6426,
+    "pop_youth": 1955,
+    "pop_adult": 5724,
+    "pop_senior": 2523
+  },
+  "9117": {
+    "name": "Teodoro Schmidt",
+    "population": 15744,
+    "pop_male": 7802,
+    "pop_female": 7942,
+    "pop_youth": 2353,
+    "pop_adult": 7332,
+    "pop_senior": 3234
+  },
+  "9118": {
+    "name": "Toltén",
+    "population": 9937,
+    "pop_male": 4949,
+    "pop_female": 4988,
+    "pop_youth": 1521,
+    "pop_adult": 4669,
+    "pop_senior": 1916
+  },
+  "9119": {
+    "name": "Vilcún",
+    "population": 32742,
+    "pop_male": 16005,
+    "pop_female": 16737,
+    "pop_youth": 6300,
+    "pop_adult": 15036,
+    "pop_senior": 4682
+  },
+  "9120": {
+    "name": "Villarrica",
+    "population": 60675,
+    "pop_male": 29710,
+    "pop_female": 30965,
+    "pop_youth": 11343,
+    "pop_adult": 28388,
+    "pop_senior": 9044
+  },
+  "9121": {
+    "name": "Cholchol",
+    "population": 12647,
+    "pop_male": 6242,
+    "pop_female": 6405,
+    "pop_youth": 2272,
+    "pop_adult": 5528,
+    "pop_senior": 2231
+  },
+  "9201": {
+    "name": "Angol",
+    "population": 56797,
+    "pop_male": 27488,
+    "pop_female": 29309,
+    "pop_youth": 10217,
+    "pop_adult": 26579,
+    "pop_senior": 8993
+  },
+  "9202": {
+    "name": "Collipulli",
+    "population": 26558,
+    "pop_male": 12972,
+    "pop_female": 13586,
+    "pop_youth": 4879,
+    "pop_adult": 12198,
+    "pop_senior": 4010
+  },
+  "9203": {
+    "name": "Curacautín",
+    "population": 18211,
+    "pop_male": 8868,
+    "pop_female": 9343,
+    "pop_youth": 2940,
+    "pop_adult": 8392,
+    "pop_senior": 3606
+  },
+  "9204": {
+    "name": "Ercilla",
+    "population": 8387,
+    "pop_male": 4137,
+    "pop_female": 4250,
+    "pop_youth": 1501,
+    "pop_adult": 3660,
+    "pop_senior": 1459
+  },
+  "9205": {
+    "name": "Lonquimay",
+    "population": 11109,
+    "pop_male": 5560,
+    "pop_female": 5549,
+    "pop_youth": 2006,
+    "pop_adult": 5129,
+    "pop_senior": 1753
+  },
+  "9206": {
+    "name": "Los Sauces",
+    "population": 7468,
+    "pop_male": 3695,
+    "pop_female": 3773,
+    "pop_youth": 1266,
+    "pop_adult": 3473,
+    "pop_senior": 1425
+  },
+  "9207": {
+    "name": "Lumaco",
+    "population": 9916,
+    "pop_male": 4983,
+    "pop_female": 4933,
+    "pop_youth": 1569,
+    "pop_adult": 4606,
+    "pop_senior": 1797
+  },
+  "9208": {
+    "name": "Purén",
+    "population": 12103,
+    "pop_male": 5896,
+    "pop_female": 6207,
+    "pop_youth": 1949,
+    "pop_adult": 5645,
+    "pop_senior": 2225
+  },
+  "9209": {
+    "name": "Renaico",
+    "population": 11002,
+    "pop_male": 5317,
+    "pop_female": 5685,
+    "pop_youth": 2057,
+    "pop_adult": 5139,
+    "pop_senior": 1680
+  },
+  "9210": {
+    "name": "Traiguén",
+    "population": 19260,
+    "pop_male": 9329,
+    "pop_female": 9931,
+    "pop_youth": 3108,
+    "pop_adult": 8793,
+    "pop_senior": 3757
+  },
+  "9211": {
+    "name": "Victoria",
+    "population": 35554,
+    "pop_male": 17297,
+    "pop_female": 18257,
+    "pop_youth": 6501,
+    "pop_adult": 16537,
+    "pop_senior": 6145
+  },
+  "10101": {
+    "name": "Puerto Montt",
+    "population": 280955,
+    "pop_male": 139459,
+    "pop_female": 141496,
+    "pop_youth": 61118,
+    "pop_adult": 135698,
+    "pop_senior": 30251
+  },
+  "10102": {
+    "name": "Calbuco",
+    "population": 37626,
+    "pop_male": 18909,
+    "pop_female": 18717,
+    "pop_youth": 6990,
+    "pop_adult": 17738,
+    "pop_senior": 6047
+  },
+  "10103": {
+    "name": "Cochamó",
+    "population": 3947,
+    "pop_male": 2031,
+    "pop_female": 1916,
+    "pop_youth": 533,
+    "pop_adult": 2030,
+    "pop_senior": 815
+  },
+  "10104": {
+    "name": "Fresia",
+    "population": 12571,
+    "pop_male": 6311,
+    "pop_female": 6260,
+    "pop_youth": 2089,
+    "pop_adult": 6131,
+    "pop_senior": 2342
+  },
+  "10105": {
+    "name": "Frutillar",
+    "population": 20817,
+    "pop_male": 10384,
+    "pop_female": 10433,
+    "pop_youth": 3893,
+    "pop_adult": 10085,
+    "pop_senior": 3082
+  },
+  "10106": {
+    "name": "Los Muermos",
+    "population": 17832,
+    "pop_male": 8996,
+    "pop_female": 8836,
+    "pop_youth": 2971,
+    "pop_adult": 8545,
+    "pop_senior": 3299
+  },
+  "10107": {
+    "name": "Llanquihue",
+    "population": 18863,
+    "pop_male": 9365,
+    "pop_female": 9498,
+    "pop_youth": 3611,
+    "pop_adult": 9175,
+    "pop_senior": 2791
+  },
+  "10108": {
+    "name": "Maullín",
+    "population": 14735,
+    "pop_male": 7451,
+    "pop_female": 7284,
+    "pop_youth": 2335,
+    "pop_adult": 7196,
+    "pop_senior": 2975
+  },
+  "10109": {
+    "name": "Puerto Varas",
+    "population": 51316,
+    "pop_male": 25415,
+    "pop_female": 25901,
+    "pop_youth": 8989,
+    "pop_adult": 26040,
+    "pop_senior": 6320
+  },
+  "10201": {
+    "name": "Castro",
+    "population": 48727,
+    "pop_male": 24085,
+    "pop_female": 24642,
+    "pop_youth": 8858,
+    "pop_adult": 24340,
+    "pop_senior": 6633
+  },
+  "10202": {
+    "name": "Ancud",
+    "population": 42524,
+    "pop_male": 21169,
+    "pop_female": 21355,
+    "pop_youth": 7278,
+    "pop_adult": 21090,
+    "pop_senior": 6928
+  },
+  "10203": {
+    "name": "Chonchi",
+    "population": 16267,
+    "pop_male": 8085,
+    "pop_female": 8182,
+    "pop_youth": 2976,
+    "pop_adult": 8113,
+    "pop_senior": 2383
+  },
+  "10204": {
+    "name": "Curaco de Vélez",
+    "population": 4135,
+    "pop_male": 2037,
+    "pop_female": 2098,
+    "pop_youth": 691,
+    "pop_adult": 1921,
+    "pop_senior": 789
+  },
+  "10205": {
+    "name": "Dalcahue",
+    "population": 15456,
+    "pop_male": 7730,
+    "pop_female": 7726,
+    "pop_youth": 2887,
+    "pop_adult": 7454,
+    "pop_senior": 2232
+  },
+  "10206": {
+    "name": "Puqueldón",
+    "population": 4188,
+    "pop_male": 2108,
+    "pop_female": 2080,
+    "pop_youth": 656,
+    "pop_adult": 2035,
+    "pop_senior": 853
+  },
+  "10207": {
+    "name": "Queilén",
+    "population": 5542,
+    "pop_male": 2797,
+    "pop_female": 2745,
+    "pop_youth": 924,
+    "pop_adult": 2737,
+    "pop_senior": 913
+  },
+  "10208": {
+    "name": "Quellón",
+    "population": 30136,
+    "pop_male": 15185,
+    "pop_female": 14951,
+    "pop_youth": 6093,
+    "pop_adult": 15044,
+    "pop_senior": 2807
+  },
+  "10209": {
+    "name": "Quemchi",
+    "population": 8754,
+    "pop_male": 4411,
+    "pop_female": 4343,
+    "pop_youth": 1367,
+    "pop_adult": 4253,
+    "pop_senior": 1697
+  },
+  "10210": {
+    "name": "Quinchao",
+    "population": 8186,
+    "pop_male": 4034,
+    "pop_female": 4152,
+    "pop_youth": 1287,
+    "pop_adult": 4003,
+    "pop_senior": 1526
+  },
+  "10301": {
+    "name": "Osorno",
+    "population": 176304,
+    "pop_male": 86473,
+    "pop_female": 89831,
+    "pop_youth": 34281,
+    "pop_adult": 85098,
+    "pop_senior": 25903
+  },
+  "10302": {
+    "name": "Puerto Octay",
+    "population": 9056,
+    "pop_male": 4603,
+    "pop_female": 4453,
+    "pop_youth": 1653,
+    "pop_adult": 4467,
+    "pop_senior": 1422
+  },
+  "10303": {
+    "name": "Purranque",
+    "population": 20968,
+    "pop_male": 10412,
+    "pop_female": 10556,
+    "pop_youth": 3714,
+    "pop_adult": 9743,
+    "pop_senior": 3927
+  },
+  "10304": {
+    "name": "Puyehue",
+    "population": 11818,
+    "pop_male": 5935,
+    "pop_female": 5883,
+    "pop_youth": 2021,
+    "pop_adult": 5750,
+    "pop_senior": 2098
+  },
+  "10305": {
+    "name": "Río Negro",
+    "population": 14085,
+    "pop_male": 7055,
+    "pop_female": 7030,
+    "pop_youth": 2304,
+    "pop_adult": 6741,
+    "pop_senior": 2756
+  },
+  "10306": {
+    "name": "San Juan de la Costa",
+    "population": 7424,
+    "pop_male": 3815,
+    "pop_female": 3609,
+    "pop_youth": 978,
+    "pop_adult": 3692,
+    "pop_senior": 1680
+  },
+  "10307": {
+    "name": "San Pablo",
+    "population": 10537,
+    "pop_male": 5269,
+    "pop_female": 5268,
+    "pop_youth": 1635,
+    "pop_adult": 5044,
+    "pop_senior": 2204
+  },
+  "10401": {
+    "name": "Chaitén",
+    "population": 5078,
+    "pop_male": 2633,
+    "pop_female": 2445,
+    "pop_youth": 772,
+    "pop_adult": 2737,
+    "pop_senior": 729
+  },
+  "10402": {
+    "name": "Futaleufú",
+    "population": 2912,
+    "pop_male": 1466,
+    "pop_female": 1446,
+    "pop_youth": 505,
+    "pop_adult": 1462,
+    "pop_senior": 460
+  },
+  "10403": {
+    "name": "Hualaihué",
+    "population": 9586,
+    "pop_male": 4873,
+    "pop_female": 4713,
+    "pop_youth": 1546,
+    "pop_adult": 4830,
+    "pop_senior": 1366
+  },
+  "10404": {
+    "name": "Palena",
+    "population": 1826,
+    "pop_male": 917,
+    "pop_female": 909,
+    "pop_youth": 286,
+    "pop_adult": 916,
+    "pop_senior": 348
+  },
+  "11101": {
+    "name": "Coyhaique",
+    "population": 62046,
+    "pop_male": 30822,
+    "pop_female": 31224,
+    "pop_youth": 11182,
+    "pop_adult": 30756,
+    "pop_senior": 7480
+  },
+  "11102": {
+    "name": "Lago Verde",
+    "population": 914,
+    "pop_male": 484,
+    "pop_female": 430,
+    "pop_youth": 122,
+    "pop_adult": 485,
+    "pop_senior": 171
+  },
+  "11201": {
+    "name": "Aysén",
+    "population": 25218,
+    "pop_male": 12847,
+    "pop_female": 12371,
+    "pop_youth": 4644,
+    "pop_adult": 12362,
+    "pop_senior": 3006
+  },
+  "11202": {
+    "name": "Cisnes",
+    "population": 5872,
+    "pop_male": 3033,
+    "pop_female": 2839,
+    "pop_youth": 984,
+    "pop_adult": 3063,
+    "pop_senior": 667
+  },
+  "11203": {
+    "name": "Guaitecas",
+    "population": 1611,
+    "pop_male": 842,
+    "pop_female": 769,
+    "pop_youth": 272,
+    "pop_adult": 856,
+    "pop_senior": 160
+  },
+  "11301": {
+    "name": "Cochrane",
+    "population": 3741,
+    "pop_male": 1926,
+    "pop_female": 1815,
+    "pop_youth": 689,
+    "pop_adult": 1851,
+    "pop_senior": 494
+  },
+  "11302": {
+    "name": "O'Higgins",
+    "population": 675,
+    "pop_male": 354,
+    "pop_female": 321,
+    "pop_youth": 120,
+    "pop_adult": 365,
+    "pop_senior": 60
+  },
+  "11303": {
+    "name": "Tortel",
+    "population": 585,
+    "pop_male": 298,
+    "pop_female": 287,
+    "pop_youth": 88,
+    "pop_adult": 311,
+    "pop_senior": 60
+  },
+  "11401": {
+    "name": "Chile Chico",
+    "population": 5163,
+    "pop_male": 2637,
+    "pop_female": 2526,
+    "pop_youth": 738,
+    "pop_adult": 2710,
+    "pop_senior": 815
+  },
+  "11402": {
+    "name": "Río Ibáñez",
+    "population": 2713,
+    "pop_male": 1408,
+    "pop_female": 1305,
+    "pop_youth": 376,
+    "pop_adult": 1367,
+    "pop_senior": 582
+  },
+  "12101": {
+    "name": "Punta Arenas",
+    "population": 145713,
+    "pop_male": 73682,
+    "pop_female": 72031,
+    "pop_youth": 29257,
+    "pop_adult": 70905,
+    "pop_senior": 20858
+  },
+  "12102": {
+    "name": "Laguna Blanca",
+    "population": 248,
+    "pop_male": 147,
+    "pop_female": 101,
+    "pop_youth": 29,
+    "pop_adult": 143,
+    "pop_senior": 36
+  },
+  "12103": {
+    "name": "Río Verde",
+    "population": 205,
+    "pop_male": 128,
+    "pop_female": 77,
+    "pop_youth": 23,
+    "pop_adult": 130,
+    "pop_senior": 39
+  },
+  "12104": {
+    "name": "San Gregorio",
+    "population": 651,
+    "pop_male": 362,
+    "pop_female": 289,
+    "pop_youth": 114,
+    "pop_adult": 355,
+    "pop_senior": 75
+  },
+  "12201": {
+    "name": "Cabo de Hornos",
+    "population": 1968,
+    "pop_male": 1016,
+    "pop_female": 952,
+    "pop_youth": 399,
+    "pop_adult": 980,
+    "pop_senior": 85
+  },
+  "12202": {
+    "name": "Antártica",
+    "population": 151,
+    "pop_male": 99,
+    "pop_female": 52,
+    "pop_youth": 7,
+    "pop_adult": 125,
+    "pop_senior": 0
+  },
+  "12301": {
+    "name": "Porvenir",
+    "population": 7637,
+    "pop_male": 4126,
+    "pop_female": 3511,
+    "pop_youth": 1757,
+    "pop_adult": 3624,
+    "pop_senior": 941
+  },
+  "12302": {
+    "name": "Primavera",
+    "population": 674,
+    "pop_male": 376,
+    "pop_female": 298,
+    "pop_youth": 89,
+    "pop_adult": 417,
+    "pop_senior": 63
+  },
+  "12303": {
+    "name": "Timaukel",
+    "population": 276,
+    "pop_male": 176,
+    "pop_female": 100,
+    "pop_youth": 50,
+    "pop_adult": 170,
+    "pop_senior": 21
+  },
+  "12401": {
+    "name": "Natales",
+    "population": 24631,
+    "pop_male": 12514,
+    "pop_female": 12117,
+    "pop_youth": 4609,
+    "pop_adult": 11872,
+    "pop_senior": 3954
+  },
+  "12402": {
+    "name": "Torres del Paine",
+    "population": 1081,
+    "pop_male": 600,
+    "pop_female": 481,
+    "pop_youth": 405,
+    "pop_adult": 527,
+    "pop_senior": 82
+  },
+  "13101": {
+    "name": "Santiago",
+    "population": 544388,
+    "pop_male": 274718,
+    "pop_female": 269670,
+    "pop_youth": 142264,
+    "pop_adult": 291855,
+    "pop_senior": 48853
+  },
+  "13102": {
+    "name": "Cerrillos",
+    "population": 90182,
+    "pop_male": 44603,
+    "pop_female": 45579,
+    "pop_youth": 18649,
+    "pop_adult": 42542,
+    "pop_senior": 11919
+  },
+  "13103": {
+    "name": "Cerro Navia",
+    "population": 139632,
+    "pop_male": 69456,
+    "pop_female": 70176,
+    "pop_youth": 29035,
+    "pop_adult": 64430,
+    "pop_senior": 20423
+  },
+  "13104": {
+    "name": "Conchalí",
+    "population": 136674,
+    "pop_male": 67711,
+    "pop_female": 68963,
+    "pop_youth": 27300,
+    "pop_adult": 63752,
+    "pop_senior": 21979
+  },
+  "13105": {
+    "name": "El Bosque",
+    "population": 169855,
+    "pop_male": 84067,
+    "pop_female": 85788,
+    "pop_youth": 35034,
+    "pop_adult": 78121,
+    "pop_senior": 24514
+  },
+  "13106": {
+    "name": "Estación Central",
+    "population": 221901,
+    "pop_male": 111738,
+    "pop_female": 110163,
+    "pop_youth": 50081,
+    "pop_adult": 107217,
+    "pop_senior": 29825
+  },
+  "13107": {
+    "name": "Huechuraba",
+    "population": 118327,
+    "pop_male": 58373,
+    "pop_female": 59954,
+    "pop_youth": 22550,
+    "pop_adult": 56737,
+    "pop_senior": 13183
+  },
+  "13108": {
+    "name": "Independencia",
+    "population": 153624,
+    "pop_male": 77443,
+    "pop_female": 76181,
+    "pop_youth": 35710,
+    "pop_adult": 74439,
+    "pop_senior": 19371
+  },
+  "13109": {
+    "name": "La Cisterna",
+    "population": 101401,
+    "pop_male": 50131,
+    "pop_female": 51270,
+    "pop_youth": 19812,
+    "pop_adult": 48019,
+    "pop_senior": 16884
+  },
+  "13110": {
+    "name": "La Florida",
+    "population": 407297,
+    "pop_male": 200711,
+    "pop_female": 206586,
+    "pop_youth": 79689,
+    "pop_adult": 197136,
+    "pop_senior": 61144
+  },
+  "13111": {
+    "name": "La Granja",
+    "population": 119321,
+    "pop_male": 59263,
+    "pop_female": 60058,
+    "pop_youth": 24326,
+    "pop_adult": 56648,
+    "pop_senior": 16824
+  },
+  "13112": {
+    "name": "La Pintana",
+    "population": 188980,
+    "pop_male": 93513,
+    "pop_female": 95467,
+    "pop_youth": 40529,
+    "pop_adult": 86168,
+    "pop_senior": 20705
+  },
+  "13113": {
+    "name": "La Reina",
+    "population": 99212,
+    "pop_male": 48520,
+    "pop_female": 50692,
+    "pop_youth": 18400,
+    "pop_adult": 47204,
+    "pop_senior": 16937
+  },
+  "13114": {
+    "name": "Las Condes",
+    "population": 343632,
+    "pop_male": 167662,
+    "pop_female": 175970,
+    "pop_youth": 67114,
+    "pop_adult": 165490,
+    "pop_senior": 61746
+  },
+  "13115": {
+    "name": "Lo Barnechea",
+    "population": 131053,
+    "pop_male": 63762,
+    "pop_female": 67291,
+    "pop_youth": 27810,
+    "pop_adult": 61532,
+    "pop_senior": 11981
+  },
+  "13116": {
+    "name": "Lo Espejo",
+    "population": 100694,
+    "pop_male": 50179,
+    "pop_female": 50515,
+    "pop_youth": 21276,
+    "pop_adult": 46895,
+    "pop_senior": 13983
+  },
+  "13117": {
+    "name": "Lo Prado",
+    "population": 102078,
+    "pop_male": 50463,
+    "pop_female": 51615,
+    "pop_youth": 20405,
+    "pop_adult": 47061,
+    "pop_senior": 17444
+  },
+  "13118": {
+    "name": "Macul",
+    "population": 138361,
+    "pop_male": 68291,
+    "pop_female": 70070,
+    "pop_youth": 26654,
+    "pop_adult": 66872,
+    "pop_senior": 23392
+  },
+  "13119": {
+    "name": "Maipú",
+    "population": 586812,
+    "pop_male": 288528,
+    "pop_female": 298284,
+    "pop_youth": 124299,
+    "pop_adult": 290163,
+    "pop_senior": 65394
+  },
+  "13120": {
+    "name": "Ñuñoa",
+    "population": 266906,
+    "pop_male": 130692,
+    "pop_female": 136214,
+    "pop_youth": 45995,
+    "pop_adult": 140808,
+    "pop_senior": 43748
+  },
+  "13121": {
+    "name": "Pedro Aguirre Cerda",
+    "population": 104462,
+    "pop_male": 51965,
+    "pop_female": 52497,
+    "pop_youth": 20477,
+    "pop_adult": 49362,
+    "pop_senior": 17307
+  },
+  "13122": {
+    "name": "Peñalolén",
+    "population": 272913,
+    "pop_male": 134721,
+    "pop_female": 138192,
+    "pop_youth": 56891,
+    "pop_adult": 130633,
+    "pop_senior": 33125
+  },
+  "13123": {
+    "name": "Providencia",
+    "population": 164009,
+    "pop_male": 80029,
+    "pop_female": 83980,
+    "pop_youth": 29858,
+    "pop_adult": 86798,
+    "pop_senior": 28497
+  },
+  "13124": {
+    "name": "Pudahuel",
+    "population": 261596,
+    "pop_male": 129048,
+    "pop_female": 132548,
+    "pop_youth": 55293,
+    "pop_adult": 127869,
+    "pop_senior": 26459
+  },
+  "13125": {
+    "name": "Quilicura",
+    "population": 275744,
+    "pop_male": 137276,
+    "pop_female": 138468,
+    "pop_youth": 61589,
+    "pop_adult": 136481,
+    "pop_senior": 17985
+  },
+  "13126": {
+    "name": "Quinta Normal",
+    "population": 141823,
+    "pop_male": 70073,
+    "pop_female": 71750,
+    "pop_youth": 29201,
+    "pop_adult": 68126,
+    "pop_senior": 21386
+  },
+  "13127": {
+    "name": "Recoleta",
+    "population": 196856,
+    "pop_male": 97842,
+    "pop_female": 99014,
+    "pop_youth": 40015,
+    "pop_adult": 94798,
+    "pop_senior": 28955
+  },
+  "13128": {
+    "name": "Renca",
+    "population": 163102,
+    "pop_male": 80668,
+    "pop_female": 82434,
+    "pop_youth": 33464,
+    "pop_adult": 76849,
+    "pop_senior": 19419
+  },
+  "13129": {
+    "name": "San Joaquín",
+    "population": 103118,
+    "pop_male": 50963,
+    "pop_female": 52155,
+    "pop_youth": 20635,
+    "pop_adult": 48186,
+    "pop_senior": 17799
+  },
+  "13130": {
+    "name": "San Miguel",
+    "population": 145424,
+    "pop_male": 71473,
+    "pop_female": 73951,
+    "pop_youth": 27881,
+    "pop_adult": 73948,
+    "pop_senior": 21136
+  },
+  "13131": {
+    "name": "San Ramón",
+    "population": 83695,
+    "pop_male": 41599,
+    "pop_female": 42096,
+    "pop_youth": 16796,
+    "pop_adult": 37653,
+    "pop_senior": 14337
+  },
+  "13132": {
+    "name": "Vitacura",
+    "population": 97049,
+    "pop_male": 46788,
+    "pop_female": 50261,
+    "pop_youth": 16005,
+    "pop_adult": 44903,
+    "pop_senior": 19720
+  },
+  "13201": {
+    "name": "Puente Alto",
+    "population": 667904,
+    "pop_male": 329119,
+    "pop_female": 338785,
+    "pop_youth": 144086,
+    "pop_adult": 326209,
+    "pop_senior": 61015
+  },
+  "13202": {
+    "name": "Pirque",
+    "population": 33021,
+    "pop_male": 16450,
+    "pop_female": 16571,
+    "pop_youth": 6445,
+    "pop_adult": 16150,
+    "pop_senior": 3959
+  },
+  "13203": {
+    "name": "San José de Maipo",
+    "population": 19519,
+    "pop_male": 9715,
+    "pop_female": 9804,
+    "pop_youth": 3570,
+    "pop_adult": 9584,
+    "pop_senior": 2752
+  },
+  "13301": {
+    "name": "Colina",
+    "population": 197370,
+    "pop_male": 97934,
+    "pop_female": 99436,
+    "pop_youth": 37995,
+    "pop_adult": 96157,
+    "pop_senior": 13868
+  },
+  "13302": {
+    "name": "Lampa",
+    "population": 143032,
+    "pop_male": 71220,
+    "pop_female": 71812,
+    "pop_youth": 28863,
+    "pop_adult": 68942,
+    "pop_senior": 9835
+  },
+  "13303": {
+    "name": "Tiltil",
+    "population": 22482,
+    "pop_male": 11209,
+    "pop_female": 11273,
+    "pop_youth": 4534,
+    "pop_adult": 10663,
+    "pop_senior": 2761
+  },
+  "13401": {
+    "name": "San Bernardo",
+    "population": 348640,
+    "pop_male": 172517,
+    "pop_female": 176123,
+    "pop_youth": 74204,
+    "pop_adult": 163927,
+    "pop_senior": 36042
+  },
+  "13402": {
+    "name": "Buin",
+    "population": 117982,
+    "pop_male": 58531,
+    "pop_female": 59451,
+    "pop_youth": 23768,
+    "pop_adult": 57313,
+    "pop_senior": 12146
+  },
+  "13403": {
+    "name": "Calera de Tango",
+    "population": 30283,
+    "pop_male": 15073,
+    "pop_female": 15210,
+    "pop_youth": 6245,
+    "pop_adult": 14679,
+    "pop_senior": 3392
+  },
+  "13404": {
+    "name": "Paine",
+    "population": 88317,
+    "pop_male": 44000,
+    "pop_female": 44317,
+    "pop_youth": 17645,
+    "pop_adult": 42368,
+    "pop_senior": 10105
+  },
+  "13501": {
+    "name": "Melipilla",
+    "population": 148899,
+    "pop_male": 74059,
+    "pop_female": 74840,
+    "pop_youth": 29224,
+    "pop_adult": 70413,
+    "pop_senior": 20086
+  },
+  "13502": {
+    "name": "Alhué",
+    "population": 7856,
+    "pop_male": 3958,
+    "pop_female": 3898,
+    "pop_youth": 1497,
+    "pop_adult": 3815,
+    "pop_senior": 1074
+  },
+  "13503": {
+    "name": "Curacaví",
+    "population": 38367,
+    "pop_male": 19069,
+    "pop_female": 19298,
+    "pop_youth": 7287,
+    "pop_adult": 18334,
+    "pop_senior": 5362
+  },
+  "13504": {
+    "name": "María Pinto",
+    "population": 15669,
+    "pop_male": 7747,
+    "pop_female": 7922,
+    "pop_youth": 2980,
+    "pop_adult": 7550,
+    "pop_senior": 2121
+  },
+  "13505": {
+    "name": "San Pedro",
+    "population": 12544,
+    "pop_male": 6318,
+    "pop_female": 6226,
+    "pop_youth": 2234,
+    "pop_adult": 5857,
+    "pop_senior": 2045
+  },
+  "13601": {
+    "name": "Talagante",
+    "population": 85514,
+    "pop_male": 42280,
+    "pop_female": 43234,
+    "pop_youth": 17283,
+    "pop_adult": 41107,
+    "pop_senior": 9737
+  },
+  "13602": {
+    "name": "El Monte",
+    "population": 42233,
+    "pop_male": 20947,
+    "pop_female": 21286,
+    "pop_youth": 8482,
+    "pop_adult": 19704,
+    "pop_senior": 5101
+  },
+  "13603": {
+    "name": "Isla de Maipo",
+    "population": 42393,
+    "pop_male": 21040,
+    "pop_female": 21353,
+    "pop_youth": 8275,
+    "pop_adult": 20227,
+    "pop_senior": 5111
+  },
+  "13604": {
+    "name": "Padre Hurtado",
+    "population": 81743,
+    "pop_male": 40512,
+    "pop_female": 41231,
+    "pop_youth": 16678,
+    "pop_adult": 39296,
+    "pop_senior": 8563
+  },
+  "13605": {
+    "name": "Peñaflor",
+    "population": 106840,
+    "pop_male": 52877,
+    "pop_female": 53963,
+    "pop_youth": 21357,
+    "pop_adult": 50809,
+    "pop_senior": 12542
+  },
+  "14101": {
+    "name": "Valdivia",
+    "population": 182086,
+    "pop_male": 88028,
+    "pop_female": 94058,
+    "pop_youth": 41439,
+    "pop_adult": 84618,
+    "pop_senior": 25441
+  },
+  "14102": {
+    "name": "Corral",
+    "population": 5424,
+    "pop_male": 2688,
+    "pop_female": 2736,
+    "pop_youth": 926,
+    "pop_adult": 2558,
+    "pop_senior": 1044
+  },
+  "14103": {
+    "name": "Lanco",
+    "population": 18050,
+    "pop_male": 8815,
+    "pop_female": 9235,
+    "pop_youth": 3214,
+    "pop_adult": 8377,
+    "pop_senior": 2956
+  },
+  "14104": {
+    "name": "Los Lagos",
+    "population": 20520,
+    "pop_male": 10148,
+    "pop_female": 10372,
+    "pop_youth": 3739,
+    "pop_adult": 9661,
+    "pop_senior": 3283
+  },
+  "14105": {
+    "name": "Máfil",
+    "population": 7375,
+    "pop_male": 3627,
+    "pop_female": 3748,
+    "pop_youth": 1340,
+    "pop_adult": 3357,
+    "pop_senior": 1279
+  },
+  "14106": {
+    "name": "Mariquina",
+    "population": 24006,
+    "pop_male": 11762,
+    "pop_female": 12244,
+    "pop_youth": 4571,
+    "pop_adult": 10821,
+    "pop_senior": 3584
+  },
+  "14107": {
+    "name": "Paillaco",
+    "population": 20942,
+    "pop_male": 10275,
+    "pop_female": 10667,
+    "pop_youth": 3734,
+    "pop_adult": 9782,
+    "pop_senior": 3570
+  },
+  "14108": {
+    "name": "Panguipulli",
+    "population": 36220,
+    "pop_male": 17872,
+    "pop_female": 18348,
+    "pop_youth": 6375,
+    "pop_adult": 17232,
+    "pop_senior": 5742
+  },
+  "14201": {
+    "name": "La Unión",
+    "population": 39705,
+    "pop_male": 19469,
+    "pop_female": 20236,
+    "pop_youth": 7016,
+    "pop_adult": 18639,
+    "pop_senior": 6918
+  },
+  "14202": {
+    "name": "Futrono",
+    "population": 15188,
+    "pop_male": 7478,
+    "pop_female": 7710,
+    "pop_youth": 2727,
+    "pop_adult": 7149,
+    "pop_senior": 2286
+  },
+  "14203": {
+    "name": "Lago Ranco",
+    "population": 10272,
+    "pop_male": 5126,
+    "pop_female": 5146,
+    "pop_youth": 1629,
+    "pop_adult": 4896,
+    "pop_senior": 1877
+  },
+  "14204": {
+    "name": "Río Bueno",
+    "population": 32998,
+    "pop_male": 16252,
+    "pop_female": 16746,
+    "pop_youth": 5618,
+    "pop_adult": 15708,
+    "pop_senior": 6026
+  },
+  "15101": {
+    "name": "Arica",
+    "population": 257163,
+    "pop_male": 129570,
+    "pop_female": 127593,
+    "pop_youth": 56974,
+    "pop_adult": 116396,
+    "pop_senior": 32829
+  },
+  "15102": {
+    "name": "Camarones",
+    "population": 1246,
+    "pop_male": 640,
+    "pop_female": 606,
+    "pop_youth": 163,
+    "pop_adult": 637,
+    "pop_senior": 268
+  },
+  "15201": {
+    "name": "Putre",
+    "population": 2569,
+    "pop_male": 1488,
+    "pop_female": 1081,
+    "pop_youth": 867,
+    "pop_adult": 1061,
+    "pop_senior": 350
+  },
+  "15202": {
+    "name": "General Lagos",
+    "population": 801,
+    "pop_male": 427,
+    "pop_female": 374,
+    "pop_youth": 151,
+    "pop_adult": 395,
+    "pop_senior": 145
+  },
+  "16101": {
+    "name": "Chillán",
+    "population": 204091,
+    "pop_male": 96830,
+    "pop_female": 107261,
+    "pop_youth": 40320,
+    "pop_adult": 95442,
+    "pop_senior": 31949
+  },
+  "16102": {
+    "name": "Bulnes",
+    "population": 22754,
+    "pop_male": 11026,
+    "pop_female": 11728,
+    "pop_youth": 3991,
+    "pop_adult": 10659,
+    "pop_senior": 4092
+  },
+  "16103": {
+    "name": "Chillán Viejo",
+    "population": 35580,
+    "pop_male": 16977,
+    "pop_female": 18603,
+    "pop_youth": 7124,
+    "pop_adult": 16703,
+    "pop_senior": 4389
+  },
+  "16104": {
+    "name": "El Carmen",
+    "population": 12197,
+    "pop_male": 5981,
+    "pop_female": 6216,
+    "pop_youth": 1986,
+    "pop_adult": 5711,
+    "pop_senior": 2456
+  },
+  "16105": {
+    "name": "Pemuco",
+    "population": 8583,
+    "pop_male": 4232,
+    "pop_female": 4351,
+    "pop_youth": 1527,
+    "pop_adult": 3994,
+    "pop_senior": 1553
+  },
+  "16106": {
+    "name": "Pinto",
+    "population": 12179,
+    "pop_male": 5918,
+    "pop_female": 6261,
+    "pop_youth": 2135,
+    "pop_adult": 5736,
+    "pop_senior": 2336
+  },
+  "16107": {
+    "name": "Quillón",
+    "population": 19304,
+    "pop_male": 9402,
+    "pop_female": 9902,
+    "pop_youth": 3063,
+    "pop_adult": 8952,
+    "pop_senior": 4207
+  },
+  "16108": {
+    "name": "San Ignacio",
+    "population": 16600,
+    "pop_male": 8114,
+    "pop_female": 8486,
+    "pop_youth": 2818,
+    "pop_adult": 7862,
+    "pop_senior": 3159
+  },
+  "16109": {
+    "name": "Yungay",
+    "population": 18835,
+    "pop_male": 9251,
+    "pop_female": 9584,
+    "pop_youth": 3123,
+    "pop_adult": 8870,
+    "pop_senior": 3572
+  },
+  "16201": {
+    "name": "Quirihue",
+    "population": 12241,
+    "pop_male": 5968,
+    "pop_female": 6273,
+    "pop_youth": 1904,
+    "pop_adult": 5794,
+    "pop_senior": 2491
+  },
+  "16202": {
+    "name": "Cobquecura",
+    "population": 5224,
+    "pop_male": 2544,
+    "pop_female": 2680,
+    "pop_youth": 656,
+    "pop_adult": 2568,
+    "pop_senior": 1319
+  },
+  "16203": {
+    "name": "Coelemu",
+    "population": 16901,
+    "pop_male": 8265,
+    "pop_female": 8636,
+    "pop_youth": 2830,
+    "pop_adult": 7906,
+    "pop_senior": 3169
+  },
+  "16204": {
+    "name": "Ninhue",
+    "population": 5353,
+    "pop_male": 2614,
+    "pop_female": 2739,
+    "pop_youth": 778,
+    "pop_adult": 2520,
+    "pop_senior": 1272
+  },
+  "16205": {
+    "name": "Portezuelo",
+    "population": 4876,
+    "pop_male": 2379,
+    "pop_female": 2497,
+    "pop_youth": 724,
+    "pop_adult": 2315,
+    "pop_senior": 1083
+  },
+  "16206": {
+    "name": "Ránquil",
+    "population": 6293,
+    "pop_male": 3069,
+    "pop_female": 3224,
+    "pop_youth": 832,
+    "pop_adult": 2981,
+    "pop_senior": 1502
+  },
+  "16207": {
+    "name": "Treguaco",
+    "population": 5766,
+    "pop_male": 2842,
+    "pop_female": 2924,
+    "pop_youth": 866,
+    "pop_adult": 2775,
+    "pop_senior": 1195
+  },
+  "16301": {
+    "name": "San Carlos",
+    "population": 57061,
+    "pop_male": 27514,
+    "pop_female": 29547,
+    "pop_youth": 10326,
+    "pop_adult": 26406,
+    "pop_senior": 10390
+  },
+  "16302": {
+    "name": "Coihueco",
+    "population": 29067,
+    "pop_male": 14171,
+    "pop_female": 14896,
+    "pop_youth": 5655,
+    "pop_adult": 13567,
+    "pop_senior": 4313
+  },
+  "16303": {
+    "name": "Ñiquén",
+    "population": 11526,
+    "pop_male": 5712,
+    "pop_female": 5814,
+    "pop_youth": 1644,
+    "pop_adult": 5472,
+    "pop_senior": 2604
+  },
+  "16304": {
+    "name": "San Fabián",
+    "population": 4793,
+    "pop_male": 2341,
+    "pop_female": 2452,
+    "pop_youth": 802,
+    "pop_adult": 2163,
+    "pop_senior": 1024
+  },
+  "16305": {
+    "name": "San Nicolás",
+    "population": 12487,
+    "pop_male": 6082,
+    "pop_female": 6405,
+    "pop_youth": 2075,
+    "pop_adult": 6012,
+    "pop_senior": 2332
+  }
+}
