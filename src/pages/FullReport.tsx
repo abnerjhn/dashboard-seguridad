@@ -63,7 +63,9 @@ export const FullReport: React.FC = () => {
             week: 47,
             year: 2024,
             selectedWeek: maxWeek || 47,
-            setSelectedWeek: () => { } // No-op for report view? Or implement if we want interactivity
+            setSelectedWeek: () => { }, // No-op for report view
+            viewState: {},
+            setViewState: () => { }
         },
         loading,
         error

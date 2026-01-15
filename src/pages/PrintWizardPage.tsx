@@ -896,6 +896,8 @@ export const PrintWizardPage: React.FC = () => {
             selectedComuna, setSelectedComuna, availableComunas,
             year: 2025, week: maxWeek || 28, maxWeek: maxWeek || 28,
             selectedWeek: selectedWeek || 28, setSelectedWeek,
+            viewState: {},
+            setViewState: () => { }
         },
         loading, error
     };

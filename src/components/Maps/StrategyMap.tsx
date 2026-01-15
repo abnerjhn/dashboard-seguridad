@@ -1,23 +1,7 @@
 import React, { useEffect, useState, useMemo } from 'react';
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import { useOutletContext } from 'react-router-dom';
-import { type DashboardContextType } from '../Layout/Layout';
 import type { HistoricalDataItem, DemographicsMap } from '../../utils/dataLoader';
-import L from 'leaflet';
-
-// Fix leaflet icons
-// import icon from 'leaflet/dist/images/marker-icon.png';
-// import iconShadow from 'leaflet/dist/images/marker-shadow.png';
-
-// let DefaultIcon = L.icon({
-//     iconUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png', // Use CDN temporarily or comment out
-//     shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
-//     iconSize: [25, 41],
-//     iconAnchor: [12, 41]
-// });
-
-// L.Marker.prototype.options.icon = DefaultIcon;
 
 interface StrategyMapProps {
     historicalData: HistoricalDataItem[];
@@ -27,7 +11,7 @@ interface StrategyMapProps {
 }
 
 const StrategyMap: React.FC<StrategyMapProps> = ({ historicalData, demographics, selectedComuna, onSelectComuna }) => {
-    // const { globalState } = useOutletContext<DashboardContextType>(); // Removed: Context not available here
+    // Context removed as it was unused and caused build errors
     const [geoJsonData, setGeoJsonData] = useState<any>(null);
     const [viewMode, setViewMode] = useState<'total' | 'rate'>('rate'); // Default to Rate
 
